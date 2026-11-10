@@ -1,0 +1,16 @@
+pandas
+numpy
+scipy
+scikit-learn
+statsmodels
+matplotlib
+seaborn
+duckdb
+pyyaml
+pydantic
+streamlit
+pytest
+openpyxl
+python-pptx
+python-docx
+jupyter
